@@ -1,0 +1,17 @@
+:root{
+
+    ---text: #fff;
+    --btn: linear-gradient(112.62deg, #E0DAD0 40.4%, #002435fd 105.15%);;
+
+   ---primary: #0F0F12;
+   ---primary-hover: #080414;
+   ---primary-pressed: #39324D;
+
+   ---secundary: #1C51FE;
+   ---secundary-dark: #1336A9;
+   ---secundary-pressed: #0E297F;
+   ---card: #ffffff3b;
+   ---card-text: #000;
+}
+
+
